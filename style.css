@@ -1,5 +1,5 @@
 body {
-    background-color: beige;
+    background-color: LightGray;
 }
 
 #pageContent ul {
@@ -46,9 +46,9 @@ body {
 #header {
     width: 99.8%;
     height: 50px;
-    background: #FF8080;
+    background: #390A69;
     border: solid #CCCCCC thin;
-    border-bottom: solid #f9e9a1 10px;
+    border-bottom: solid #2297a6 10px;
     border-top: solid #2297a6 10px;
     padding-top: 20px;
     align-content: center;
@@ -125,7 +125,7 @@ content {
     float: left;
     font-size: 12px;
     font-style: italic;
-    background: #f9e9a1;
+    background: #390A69;
     border: solid #CCCCCC thin;
     border-top: none
 }
